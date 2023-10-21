@@ -1,0 +1,17 @@
+C:\Users\user\source\repos\ContactBookApp\ContactBookApp.Core\bin\Debug\net6.0\ContactBookApp.Core.deps.json
+C:\Users\user\source\repos\ContactBookApp\ContactBookApp.Core\bin\Debug\net6.0\ContactBookApp.Core.dll
+C:\Users\user\source\repos\ContactBookApp\ContactBookApp.Core\bin\Debug\net6.0\ContactBookApp.Core.pdb
+C:\Users\user\source\repos\ContactBookApp\ContactBookApp.Core\bin\Debug\net6.0\ContactBookApp.Data.dll
+C:\Users\user\source\repos\ContactBookApp\ContactBookApp.Core\bin\Debug\net6.0\ContactBookApp.Model.dll
+C:\Users\user\source\repos\ContactBookApp\ContactBookApp.Core\bin\Debug\net6.0\ContactBookApp.Data.pdb
+C:\Users\user\source\repos\ContactBookApp\ContactBookApp.Core\bin\Debug\net6.0\ContactBookApp.Model.pdb
+C:\Users\user\source\repos\ContactBookApp\ContactBookApp.Core\obj\Debug\net6.0\ContactBookApp.Core.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\ContactBookApp\ContactBookApp.Core\obj\Debug\net6.0\ContactBookApp.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\ContactBookApp\ContactBookApp.Core\obj\Debug\net6.0\ContactBookApp.Core.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\ContactBookApp\ContactBookApp.Core\obj\Debug\net6.0\ContactBookApp.Core.AssemblyInfo.cs
+C:\Users\user\source\repos\ContactBookApp\ContactBookApp.Core\obj\Debug\net6.0\ContactBookApp.Core.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ContactBookApp\ContactBookApp.Core\obj\Debug\net6.0\ContactBookApp.Core.csproj.CopyComplete
+C:\Users\user\source\repos\ContactBookApp\ContactBookApp.Core\obj\Debug\net6.0\ContactBookApp.Core.dll
+C:\Users\user\source\repos\ContactBookApp\ContactBookApp.Core\obj\Debug\net6.0\refint\ContactBookApp.Core.dll
+C:\Users\user\source\repos\ContactBookApp\ContactBookApp.Core\obj\Debug\net6.0\ContactBookApp.Core.pdb
+C:\Users\user\source\repos\ContactBookApp\ContactBookApp.Core\obj\Debug\net6.0\ref\ContactBookApp.Core.dll
